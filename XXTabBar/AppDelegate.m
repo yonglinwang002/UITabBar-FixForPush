@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  XXTabBar
 //
-//  Created by 王永林 on 2019/6/19.
+//  Created by xx on 2019/6/19.
 //  Copyright © 2019 xx. All rights reserved.
 //
 
@@ -16,10 +16,14 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+
     return YES;
 }
 
+
+//-(void)observeValueForKeyPath:(NSString*)keyPath ofObject:(id)object change:(NSDictionary<NSKeyValueChangeKey,id> *)change context:(void *)context{
+//    NSLog(@"observeValueForKeyPath %@",object);
+//}
 
 - (void)applicationWillResignActive:(UIApplication *)application {
     // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.

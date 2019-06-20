@@ -2,7 +2,7 @@
 //  SecondViewController.h
 //  XXTabBar
 //
-//  Created by 王永林 on 2019/6/19.
+//  Created by xx on 2019/6/19.
 //  Copyright © 2019 xx. All rights reserved.
 //
 

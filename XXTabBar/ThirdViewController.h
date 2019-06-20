@@ -1,5 +1,5 @@
 //
-//  FirstViewController.h
+//  ThirdViewController.h
 //  XXTabBar
 //
 //  Created by xx on 2019/6/19.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FirstViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface ThirdViewController : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
